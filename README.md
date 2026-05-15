@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT, cars and basketball 
 - 🌱 I’m currently learning C++, Python, Css and Html
 - 💞️ I’m looking to collaborate on becoming better about these languages
-- 📫 How to reach me: contact me on IG: _mattiafrati_
+- 📫 Contact me on IG: _mattiafrati_ or email: mattia.frati06@gmail.com
 
 <!---
 UltraFral/UltraFral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
